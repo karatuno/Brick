@@ -1,2 +1,2 @@
 # Brick
-A real very Hard Game based on Apples in java.
+Game based on Apples in java.

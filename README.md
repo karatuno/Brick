@@ -1,2 +1,2 @@
 # Brick
-Game based on Apples in java.
+Game based on Applets in java.
